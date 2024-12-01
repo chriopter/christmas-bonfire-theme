@@ -22,6 +22,7 @@
 ### 3. Background Image
 1. Place picture from Repo or of your choice in .www/backgrounds/christmas_bonfire_theme.jpg
 2. Upload a Video of a Bonfire if you wish and add this HTML Card to your Dashboard
+```
 type: custom:html-card
 grid_options:
   columns: 32
@@ -29,8 +30,9 @@ content: |
   <video style="width: 100%; height: auto;" autoplay loop muted playsinline>
     <source src="http://homeassistant.home.lan:8123/local/backgrounds/bonfire.mp4" type="video/mp4">
   </video>
+```
 
---ä
+---
 
 ## 🎅 Support
 
