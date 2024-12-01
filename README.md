@@ -6,6 +6,7 @@
 ## 🎁 Features
 - Christmas Color palette that looks ugly
 - Backgrounbd image
+- Cards are transparent to allow christmas background to shine
 
 ---
 
