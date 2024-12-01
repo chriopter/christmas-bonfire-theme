@@ -3,8 +3,7 @@ HomeAssistant Christmas Theme
 
 tbd
 
-<img width="104" alt="image" src="[https://github.com/chriopter/christmas-bonfire-theme/blob/main/images/Example%20Picture.png)">
-
+<img width="104" alt="image" src="https://github.com/chriopter/christmas-bonfire-theme/blob/main/images/Example%20Picture.png">
 #####
 
 ### Image Credits
