@@ -42,4 +42,5 @@ Christmas Bonfire Theme:
   ### Background Image ###
   lovelace-background: >
     center / cover no-repeat fixed
-    url("/local/themes/christmas_bonfire_theme.jpg")
+    url("/local/backgrounds/christmas_bonfire_theme.jpg")
+    
