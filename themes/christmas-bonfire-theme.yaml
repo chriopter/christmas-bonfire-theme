@@ -9,7 +9,7 @@ christmas_theme:
     }
 
   ### Colors for Christmas ###
-  primary-color: "#FF0000"           # Red 
+  primary-color: "#FF0000"           # Red  
   light-primary-color: "#00FF00"     # Green
   primary-background-color: "#1E1E1E"  # Dark background
   secondary-background-color: "#333333"
